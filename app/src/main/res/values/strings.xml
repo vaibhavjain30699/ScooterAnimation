@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Scooter Animation</string>
+    
+    <string name="dashboard_title">MOTOR ON</string>
+    <string name="trip_data">Trip A\n%s KMS</string>
+    <string name="odo_data">ODO\n%s KMS</string>
+</resources>
